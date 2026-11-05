@@ -1,3 +1,12 @@
-#Cópias de segurança de editores
+# Python
+__pycache__/
+*.pyc
+# Ambientes virtuais
+.venv/
+venv/
+# Configuração pessoal do editor
+.vscode/
+# Cópias de segurança
 *~
-*bak
+*.bak
+
