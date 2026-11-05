@@ -3,7 +3,7 @@
 
 if __name__ == " __main__ ":
 
-    print (" Converter \n")
+    print (" Converter unidades \n")
     print ("(1) Unidades metricas")
     print ("(2) Unidades volumetricas ")
     op1 = int( input ("> "))
